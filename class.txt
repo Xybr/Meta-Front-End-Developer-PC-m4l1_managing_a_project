@@ -11,5 +11,4 @@ Fuchsia
 Purple
 Brown
 Red
-a
-B
+Seagreen
